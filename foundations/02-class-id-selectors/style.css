@@ -3,12 +3,18 @@
 }
 
 .big-font {
-    font-size: large;
+    font-size: 24px;
 
 }
 
-#line-2{
+#line-2 {
     font-size: 36px;
     color: blue;
 
+}
+
+#line-4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
 }
